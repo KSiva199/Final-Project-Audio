@@ -1,6 +1,9 @@
 ## Project
 
 
+![Logo](Audio-Waveforms-Featued-Image.jpg)
+
+
 Folders:
 
 Audio: .wav files 
