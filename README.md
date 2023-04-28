@@ -43,7 +43,7 @@ path = "/Users/ksr/Machine Learning/Final Project Audio/audio/4"
 y,sr=librosa.load('audio/0/american_f_Alexa_20230406110149.wav',sr=32000)
 librosa.display.waveshow(y,sr=sr,color='black')
 ```
-![Wave](wave.png))
+![Wave](Wave.png)
 
 ```python
 import librosa as librosa
