@@ -1,10 +1,10 @@
-## Project
+# Audio Classification.(Machine Learning and Deep Learning)
 
 
 ![Logo](Audio-Waveforms-Featued-Image.jpg)
 
 
-# Audio Classification.(Machine Learning and Deep Learning)
+# Introduction
 
 The goal of audio classification is to enable machines to automatically recognize and distinguish between different types of audio. In this project we have collected the audio's of different samples from different nationality. 
 - Collection of audio through a web interface. 
@@ -200,8 +200,9 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 
 ## Support
 
-For support, email 
-korakus@clarkson.edu
+For support, email  
+
+korakus@clarkson.edu                                                                                    
 desilvr@clarkson.edu
 
 
