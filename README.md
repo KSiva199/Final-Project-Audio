@@ -201,7 +201,7 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 ## Support
 
 For support, email 
-korakus@clarkson.edu
+korakus@clarkson.edu                                                                                    
 desilvr@clarkson.edu
 
 
