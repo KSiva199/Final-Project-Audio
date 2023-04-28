@@ -196,7 +196,8 @@ model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accur
 ```
 ![Accu](val.png)
 
-
+## Conlusion
+This project was to test out audio data which was collected in our survey method. The model was performing better with CNN compared to SVM. 
 
 ## Support
 
