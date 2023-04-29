@@ -195,9 +195,10 @@ model.add(Dense(10, activation='softmax'))
 model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
 ```
 ![Accu](val.png)
+![Accu](output.png)
 
 ## Conlusion
-This project was to test out audio data which was collected in our survey method. The model was performing better with CNN compared to SVM. 
+This project was to test out audio data which was collected in our survey method. The model was performing better with CNN compared to SVM. However CNN was over fitting due o less data. 
 
 ## Support
 
